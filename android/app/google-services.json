@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "130711145744",
+    "project_id": "wallpapercontrolapp",
+    "storage_bucket": "wallpapercontrolapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130711145744:android:4a0a075f2aacebf96d6995",
+        "android_client_info": {
+          "package_name": "com.example.wallpaper_controlapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130711145744-t4o7tugjgt152es7hndetnk0iu6oddnk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wallpaper_controlapp",
+            "certificate_hash": "1eb4bb9d6ca14630b49845c9ff5fcae8ea72ede8"
+          }
+        },
+        {
+          "client_id": "130711145744-q1vgkp49nevobggide8ofmisf67t5d0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEhQCLiUpPtfta0NnLdIiEh7Rgt0UY1-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130711145744-q1vgkp49nevobggide8ofmisf67t5d0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
